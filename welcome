@@ -1,4 +1,4 @@
-public class Cab_Fare {
+public class CabFare {
 
 	public static void main(String[] args) {
 
