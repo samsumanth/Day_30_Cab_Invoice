@@ -1,0 +1,8 @@
+public class Cab_Fare {
+
+	public static void main(String[] args) {
+
+      System.out.println("welcome to Day_30_CabInvoiceCalculator");
+	}
+
+}
